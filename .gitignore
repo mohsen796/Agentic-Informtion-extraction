@@ -1,0 +1,3 @@
+resources/paper_pdf/*
+.DS_Store
+*.pyc
