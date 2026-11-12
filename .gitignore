@@ -2,3 +2,4 @@ resources/paper_pdf/*
 .DS_Store
 *.pyc
 .env
+resources/analyzed_papers/*
